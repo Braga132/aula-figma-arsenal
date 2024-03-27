@@ -1,9 +1,15 @@
 h1 {
     background-color: gold;
 }
-p{
+.p{
     background-color: red;
 }
 #id{
     background-color: brown;
+}
+.Azul{
+    background-color:  blue;
+}
+.vermelho{
+    background-color: red;
 }
