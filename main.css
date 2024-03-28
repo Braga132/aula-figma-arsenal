@@ -12,4 +12,12 @@ h1 {
 }
 .vermelho{
     background-color: red;
+    text-align: center;
+}
+.ads{
+    text-align: center;
+}
+.java{
+    border-radius: 50px;
+    justify-content: center;
 }
