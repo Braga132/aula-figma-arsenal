@@ -23,6 +23,29 @@ h1 {
 }
 .ref{
     width: 450px;height: 300px;
-    border-radius: 50px; ;
-    
+    border-radius: 50px; ; 
 }
+.sub{
+    color: red;
+}
+.horizontal{
+    flex-direction:row;
+}
+.vertical {
+    float: left;
+    flex-direction: column;
+}
+.flex-container{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.name{
+    color: white;
+}
+.black{
+    background-color: black;
+}
+
+
