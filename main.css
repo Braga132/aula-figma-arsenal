@@ -1,51 +1,71 @@
 h1 {
     background-color: gold;
 }
-.p{
+
+.p {
     background-color: red;
 }
-#id{
+
+#id {
     background-color: brown;
 }
-.Azul{
-    background-color:  blue;
+
+.Azul {
+    background-color: blue;
 }
-.vermelho{
+
+.vermelho {
     background-color: red;
     text-align: center;
 }
-.ads{
+
+.ads {
     text-align: center;
 }
-.java{
+
+.java {
     border-radius: 50px;
     justify-content: center;
 }
-.ref{
-    width: 450px;height: 300px;
-    border-radius: 50px; ; 
+
+.ref {
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    ;
 }
-.sub{
+
+.sub {
     color: red;
 }
-.horizontal{
-    flex-direction:row;
+
+.horizontal {
+    flex-direction: row;
 }
+
 .vertical {
     float: left;
     flex-direction: column;
 }
-.flex-container{
+
+.flex-container {
     display: flex;
     margin: 0px;
     padding: 0px;
     list-style: none;
 }
-.name{
+
+.name {
     color: white;
 }
-.black{
+
+.black {
     background-color: black;
 }
 
+body {
+    background-image: url(https://premierleaguebrasil.com.br/wp-content/uploads/2020/01/Arsenal-v-Sevilla-FC-Emirates-Cup-1579622382.jpg);
+    
+    background-repeat: no-repeat;
 
+}
